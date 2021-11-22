@@ -1,3 +1,5 @@
+# Simple beam exposed to fire: FE-SFS
+
 This input file consists of following input codes
 
 -input_beam_buckle.fil    			Abaqus result fil file after buckling analysis using beam  element which used in strucutral_beam.inp
