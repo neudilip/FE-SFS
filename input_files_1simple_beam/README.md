@@ -1,4 +1,4 @@
-#Simple beam exposed to fire
+# Simple beam exposed to fire: FE-SFS
 
 This input file consists of following input codes
 
