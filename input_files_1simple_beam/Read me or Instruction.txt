@@ -7,7 +7,6 @@ simple_beam_mat_temp.py    			A python script to generate material data and fire
 structural_beam.inp    				Abaqus input file to perform structural analysis for restrained column using beam element
 
 
-temperature_shell.odb    			Abaqus result odb file after thermal response analysis using shell  element in 3D space which used in strucutral_shell.inp
 
 structural_shell.inp    			Abaqus input file to perform structural analysis for restrained column using shell element
 						( in line 4040 of structural_shell.inp, add the location of temperature_shell.odb .i .e this folder location)
