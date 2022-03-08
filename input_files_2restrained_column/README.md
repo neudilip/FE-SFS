@@ -1,4 +1,4 @@
-# Simple beam exposed to fire: FE-SFS
+#  Restrained column exposed to fire: FE-SFS
 
 This input file consists of following input codes
 
